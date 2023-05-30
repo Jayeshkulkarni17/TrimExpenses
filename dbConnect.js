@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 
 mongoose.connect(
-  "mongodb+srv://jayeshkulkarni1703:17072003@cluster0.kteok1g.mongodb.net/",
+  "mongodb+srv://jayeshkulkarni1703:<password>@cluster0.kteok1g.mongodb.net/",
   { useNewUrlParser: true, useUnifiedTopology: true }
 );
 
